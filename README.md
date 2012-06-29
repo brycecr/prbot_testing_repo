@@ -1,3 +1,3 @@
-prbot_testing_repo
+prbot_testing_repo :-)
 ==================
 Testing arena for the new and improved prbot.
